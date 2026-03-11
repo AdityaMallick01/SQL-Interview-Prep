@@ -11,7 +11,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | -- | ------------------------------------------------------ | ---------- | ------ |
 | 1  | Recyclable and Low Fat Products                        | Easy       | ✅      |
 | 2  | Find Customer Referee                                  | Easy       | ✅      |
-| 3  | Big Countries                                          | Easy       | ⬜      |
+| 3  | Big Countries                                          | Easy       | ✅      |
 | 4  | Article Views I                                        | Easy       | ⬜      |
 | 5  | Invalid Tweets                                         | Easy       | ⬜      |
 | 6  | Replace Employee ID With The Unique Identifier         | Easy       | ⬜      |
