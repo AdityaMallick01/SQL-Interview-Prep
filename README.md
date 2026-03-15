@@ -14,7 +14,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 3  | Big Countries                                          | Easy       | ✅      |
 | 4  | Article Views I                                        | Easy       | ✅      |
 | 5  | Invalid Tweets                                         | Easy       | ✅      |
-| 6  | Replace Employee ID With The Unique Identifier         | Easy       | ⬜      |
+| 6  | Replace Employee ID With The Unique Identifier         | Easy       | ✅      |
 | 7  | Product Sales Analysis I                               | Easy       | ⬜      |
 | 8  | Customer Who Visited but Did Not Make Any Transactions | Easy       | ⬜      |
 | 9  | Rising Temperature                                     | Easy       | ⬜      |
