@@ -17,7 +17,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 6  | Replace Employee ID With The Unique Identifier         | Easy       | ✅      |
 | 7  | Product Sales Analysis I                               | Easy       | ✅      |
 | 8  | Customer Who Visited but Did Not Make Any Transactions | Easy       | ✅      |
-| 9  | Rising Temperature                                     | Easy       | ⬜      |
+| 9  | Rising Temperature                                     | Easy       | ✅      |
 | 10 | Average Time of Process per Machine                    | Easy       | ⬜      |
 | 11 | Employee Bonus                                         | Easy       | ⬜      |
 | 12 | Students and Examinations                              | Easy       | ⬜      |
