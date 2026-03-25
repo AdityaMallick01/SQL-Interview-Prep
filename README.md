@@ -23,7 +23,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 12 | Students and Examinations                              | Easy       | ✅      |
 | 13 | Managers with at Least 5 Direct Reports                | Medium     | ✅      |
 | 14 | Confirmation Rate                                      | Medium     | ✅      |
-| 15 | Not Boring Movies                                      | Easy       | ⬜      |
+| 15 | Not Boring Movies                                      | Easy       | ✅      |
 | 16 | Average Selling Price                                  | Easy       | ⬜      |
 | 17 | Project Employees I                                    | Easy       | ⬜      |
 | 18 | Percentage of Users Attended a Contest                 | Easy       | ⬜      |
