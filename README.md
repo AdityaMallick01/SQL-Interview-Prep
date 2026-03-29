@@ -25,7 +25,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 14 | Confirmation Rate                                      | Medium     | ✅      |
 | 15 | Not Boring Movies                                      | Easy       | ✅      |
 | 16 | Average Selling Price                                  | Easy       | ✅      |
-| 17 | Project Employees I                                    | Easy       | ⬜      |
+| 17 | Project Employees I                                    | Easy       | ✅      |
 | 18 | Percentage of Users Attended a Contest                 | Easy       | ⬜      |
 | 19 | Queries Quality and Percentage                         | Easy       | ⬜      |
 | 20 | Monthly Transactions I                                 | Medium     | ⬜      |
