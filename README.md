@@ -28,7 +28,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 17 | Project Employees I                                    | Easy       | ✅      |
 | 18 | Percentage of Users Attended a Contest                 | Easy       | ✅      |
 | 19 | Queries Quality and Percentage                         | Easy       | ✅      |
-| 20 | Monthly Transactions I                                 | Medium     | ⬜      |
+| 20 | Monthly Transactions I                                 | Medium     | ✅      |
 | 21 | Immediate Food Delivery II                             | Medium     | ⬜      |
 | 22 | Game Play Analysis IV                                  | Medium     | ⬜      |
 | 23 | Number of Unique Subjects Taught by Each Teacher       | Easy       | ⬜      |
