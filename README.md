@@ -33,7 +33,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 22 | Game Play Analysis IV                                  | Medium     | ✅      |
 | 23 | Number of Unique Subjects Taught by Each Teacher       | Easy       | ✅      |
 | 24 | User Activity for the Past 30 Days I                   | Easy       | ✅      |
-| 25 | Product Sales Analysis III                             | Medium     | ⬜      |
+| 25 | Product Sales Analysis III                             | Medium     | ✅      |
 | 26 | Classes With at Least 5 Students                       | Easy       | ⬜      |
 | 27 | Find Followers Count                                   | Easy       | ⬜      |
 | 28 | Biggest Single Number                                  | Easy       | ⬜      |
