@@ -36,7 +36,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 25 | Product Sales Analysis III                             | Medium     | ✅      |
 | 26 | Classes With at Least 5 Students                       | Easy       | ✅      |
 | 27 | Find Followers Count                                   | Easy       | ✅      |
-| 28 | Biggest Single Number                                  | Easy       | ⬜      |
+| 28 | Biggest Single Number                                  | Easy       | ✅      |
 | 29 | Customers Who Bought All Products                      | Medium     | ⬜      |
 | 30 | The Number of Employees Which Report to Each Employee  | Easy       | ⬜      |
 | 31 | Primary Department for Each Employee                   | Easy       | ⬜      |
