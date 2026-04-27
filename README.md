@@ -38,7 +38,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 27 | Find Followers Count                                   | Easy       | ✅      |
 | 28 | Biggest Single Number                                  | Easy       | ✅      |
 | 29 | Customers Who Bought All Products                      | Medium     | ✅      |
-| 30 | The Number of Employees Which Report to Each Employee  | Easy       | ⬜      |
+| 30 | The Number of Employees Which Report to Each Employee  | Easy       | ✅      |
 | 31 | Primary Department for Each Employee                   | Easy       | ⬜      |
 | 32 | Triangle Judgement                                     | Easy       | ⬜      |
 | 33 | Consecutive Numbers                                    | Medium     | ⬜      |
