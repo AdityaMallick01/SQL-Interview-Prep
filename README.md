@@ -41,7 +41,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 30 | The Number of Employees Which Report to Each Employee  | Easy       | ✅      |
 | 31 | Primary Department for Each Employee                   | Easy       | ✅      |
 | 32 | Triangle Judgement                                     | Easy       | ✅      |
-| 33 | Consecutive Numbers                                    | Medium     | ⬜      |
+| 33 | Consecutive Numbers                                    | Medium     | ✅      |
 | 34 | Product Price at a Given Date                          | Medium     | ⬜      |
 | 35 | Last Person to Fit in the Bus                          | Medium     | ⬜      |
 | 36 | Count Salary Categories                                | Medium     | ⬜      |
