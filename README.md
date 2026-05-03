@@ -44,7 +44,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 33 | Consecutive Numbers                                    | Medium     | ✅      |
 | 34 | Product Price at a Given Date                          | Medium     | ✅      |
 | 35 | Last Person to Fit in the Bus                          | Medium     | ✅      |
-| 36 | Count Salary Categories                                | Medium     | ⬜      |
+| 36 | Count Salary Categories                                | Medium     | ✅      |
 | 37 | Employees Whose Manager Left the Company               | Easy       | ⬜      |
 | 38 | Exchange Seats                                         | Medium     | ⬜      |
 | 39 | Movie Rating                                           | Medium     | ⬜      |
