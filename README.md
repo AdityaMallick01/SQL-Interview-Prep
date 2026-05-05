@@ -46,7 +46,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 35 | Last Person to Fit in the Bus                          | Medium     | ✅      |
 | 36 | Count Salary Categories                                | Medium     | ✅      |
 | 37 | Employees Whose Manager Left the Company               | Easy       | ✅      |
-| 38 | Exchange Seats                                         | Medium     | ⬜      |
+| 38 | Exchange Seats                                         | Medium     | ✅      |
 | 39 | Movie Rating                                           | Medium     | ⬜      |
 | 40 | Restaurant Growth                                      | Medium     | ⬜      |
 | 41 | Friend Requests II: Who Has the Most Friends           | Medium     | ⬜      |
