@@ -47,7 +47,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 36 | Count Salary Categories                                | Medium     | ✅      |
 | 37 | Employees Whose Manager Left the Company               | Easy       | ✅      |
 | 38 | Exchange Seats                                         | Medium     | ✅      |
-| 39 | Movie Rating                                           | Medium     | ⬜      |
+| 39 | Movie Rating                                           | Medium     | ✅      |
 | 40 | Restaurant Growth                                      | Medium     | ⬜      |
 | 41 | Friend Requests II: Who Has the Most Friends           | Medium     | ⬜      |
 | 42 | Investments in 2016                                    | Medium     | ⬜      |
