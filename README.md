@@ -52,7 +52,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 41 | Friend Requests II: Who Has the Most Friends           | Medium     | ✅      |
 | 42 | Investments in 2016                                    | Medium     | ✅      |
 | 43 | Department Top Three Salaries                          | Hard       | ✅      |
-| 44 | Fix Names in a Table                                   | Easy       | ⬜      |
+| 44 | Fix Names in a Table                                   | Easy       | ✅      |
 | 45 | Patients With a Condition                              | Easy       | ⬜      |
 | 46 | Delete Duplicate Emails                                | Easy       | ⬜      |
 | 47 | Second Highest Salary                                  | Medium     | ⬜      |
