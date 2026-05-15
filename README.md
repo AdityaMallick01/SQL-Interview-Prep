@@ -56,7 +56,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 45 | Patients With a Condition                              | Easy       | ✅      |
 | 46 | Delete Duplicate Emails                                | Easy       | ✅      |
 | 47 | Second Highest Salary                                  | Medium     | ✅      |
-| 48 | Group Sold Products By The Date                        | Easy       | ⬜      |
+| 48 | Group Sold Products By The Date                        | Easy       | ✅      |
 | 49 | List the Products Ordered in a Period                  | Easy       | ⬜      |
 | 50 | Find Users With Valid E-Mails                          | Easy       | ⬜      |
 
