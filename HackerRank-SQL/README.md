@@ -11,7 +11,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | #  | Problem                       | Difficulty | Status |
 | -- | ----------------------------- | ---------- | ------ |
 | 1  | Revising the Select Query I   | Easy       | ✅      |
-| 2  | Revising the Select Query II  | Easy       | ⬜      |
+| 2  | Revising the Select Query II  | Easy       | ✅     |
 | 3  | Select All                    | Easy       | ⬜      |
 | 4  | Select By ID                  | Easy       | ⬜      |
 | 5  | Japanese Cities' Attributes   | Easy       | ⬜      |
