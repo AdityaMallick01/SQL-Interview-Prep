@@ -14,7 +14,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 2  | Revising the Select Query II  | Easy       | ✅      |
 | 3  | Select All                    | Easy       | ✅      |
 | 4  | Select By ID                  | Easy       | ✅      |
-| 5  | Japanese Cities' Attributes   | Easy       | ⬜      |
+| 5  | Japanese Cities' Attributes   | Easy       | ✅      |
 | 6  | Japanese Cities' Names        | Easy       | ⬜      |
 | 7  | Weather Observation Station 1 | Easy       | ⬜      |
 | 8  | Weather Observation Station 2 | Easy       | ⬜      |
