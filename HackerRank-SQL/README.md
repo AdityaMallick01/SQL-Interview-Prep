@@ -17,8 +17,8 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 5  | Japanese Cities' Attributes   | Easy       | ✅      |
 | 6  | Japanese Cities' Names        | Easy       | ✅      |
 | 7  | Weather Observation Station 1 | Easy       | ✅      |
-| 8  | Weather Observation Station 2 | Easy       | ⬜      |
-| 9  | Weather Observation Station 3 | Easy       | ⬜      |
+| 8  | Weather Observation Station 2 | Easy       | ✅      |
+| 9  | Weather Observation Station 3 | Easy       | ✅      |
 | 10 | Weather Observation Station 4 | Easy       | ⬜      |
 
 ---
