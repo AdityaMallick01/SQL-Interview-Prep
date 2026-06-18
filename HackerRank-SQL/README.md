@@ -10,23 +10,24 @@ Each problem has its own folder containing the SQL solution and explanation.
 
 | #  | Problem                       | Difficulty | Status |
 | -- | ----------------------------- | ---------- | ------ |
-| 1  | Revising the Select Query I   | Easy       | ✅      |
-| 2  | Revising the Select Query II  | Easy       | ✅      |
-| 3  | Select All                    | Easy       | ✅      |
-| 4  | Select By ID                  | Easy       | ✅      |
-| 5  | Japanese Cities' Attributes   | Easy       | ✅      |
-| 6  | Japanese Cities' Names        | Easy       | ✅      |
-| 7  | Weather Observation Station 1 | Easy       | ✅      |
-| 8  | Weather Observation Station 2 | Easy       | ✅      |
-| 9  | Weather Observation Station 3 | Easy       | ✅      |
-| 10 | Weather Observation Station 4 | Easy       | ✅      |
-| 11 | Weather Observation Station 6 | Easy       | ✅      |
-| 12 | Weather Observation Station 7 | Easy       | ✅      |
-| 13 | Weather Observation Station 8 | Easy       | ✅      |
-| 14 | Weather Observation Station 9 | Easy       | ✅      |
+| 1  | Revising the Select Query I    | Easy      | ✅      |
+| 2  | Revising the Select Query II   | Easy      | ✅      |
+| 3  | Select All                     | Easy      | ✅      |
+| 4  | Select By ID                   | Easy      | ✅      |
+| 5  | Japanese Cities' Attributes    | Easy      | ✅      |
+| 6  | Japanese Cities' Names         | Easy      | ✅      |
+| 7  | Weather Observation Station 1  | Easy      | ✅      |
+| 8  | Weather Observation Station 2  | Easy      | ✅      |
+| 9  | Weather Observation Station 3  | Easy      | ✅      |
+| 10 | Weather Observation Station 4  | Easy      | ✅      |
+| 11 | Weather Observation Station 6  | Easy      | ✅      |
+| 12 | Weather Observation Station 7  | Easy      | ✅      |
+| 13 | Weather Observation Station 8  | Easy      | ✅      |
+| 14 | Weather Observation Station 9  | Easy      | ✅      |
 | 15 | Weather Observation Station 10 | Easy      | ✅      |
 | 16 | Weather Observation Station 11 | Easy      | ✅      |
 | 17 | Weather Observation Station 12 | Easy      | ✅      |
+| 18 | Higher Than 75 Marks           | Easy      | ✅      |
 
 
 ---
