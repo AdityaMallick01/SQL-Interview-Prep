@@ -26,6 +26,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 14 | Weather Observation Station 9 | Easy       | ✅      |
 | 15 | Weather Observation Station 10 | Easy      | ✅      |
 | 16 | Weather Observation Station 11 | Easy      | ✅      |
+| 17 | Weather Observation Station 12 | Easy      | ✅      |
 
 
 ---
