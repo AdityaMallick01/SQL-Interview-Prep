@@ -28,6 +28,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 16 | Weather Observation Station 11 | Easy      | ✅      |
 | 17 | Weather Observation Station 12 | Easy      | ✅      |
 | 18 | Higher Than 75 Marks           | Easy      | ✅      |
+| 19 | Employee Names                 | Easy      | ✅      |
 
 
 ---
