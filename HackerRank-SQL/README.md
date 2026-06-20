@@ -30,6 +30,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 18 | Higher Than 75 Marks           | Easy      | ✅      |
 | 19 | Employee Names                 | Easy      | ✅      |
 | 20 | Employee Salaries              | Easy      | ✅      |
+| 21 | Type of Triangle               | Easy      | ✅      |
 
 ---
 
