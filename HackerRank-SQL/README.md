@@ -33,7 +33,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 21 | Type of Triangle               | Easy      | ✅      |
 | 22 | The PADS                       | Medium    | ✅      |
 | 23 | Occupations                    | Medium    | ✅      |
-
+| 24 | Binary Tree Nodes              | Medium    | ✅      |
 ---
 
 ## Repository Structure
