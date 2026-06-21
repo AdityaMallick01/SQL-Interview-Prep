@@ -32,6 +32,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 20 | Employee Salaries              | Easy      | ✅      |
 | 21 | Type of Triangle               | Easy      | ✅      |
 | 22 | The PADS                       | Medium    | ✅      |
+| 23 | Occupations                    | Medium    | ✅      |
 
 ---
 
