@@ -34,6 +34,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 22 | The PADS                       | Medium    | ✅      |
 | 23 | Occupations                    | Medium    | ✅      |
 | 24 | Binary Tree Nodes              | Medium    | ✅      |
+| 25 | New Companies                  | Medium    | ✅      |
 ---
 
 ## Repository Structure
