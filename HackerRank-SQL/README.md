@@ -35,6 +35,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 23 | Occupations                    | Medium    | ✅      |
 | 24 | Binary Tree Nodes              | Medium    | ✅      |
 | 25 | New Companies                  | Medium    | ✅      |
+| 26 | Revising Aggregations - The Count Function | Easy | ✅ |
 ---
 
 ## Repository Structure
