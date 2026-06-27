@@ -31,14 +31,15 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 19 | Employee Names                 | Easy      | ✅      |
 | 20 | Employee Salaries              | Easy      | ✅      |
 | 21 | Type of Triangle               | Easy      | ✅      |
-| 22 | The PADS                       | Medium    | ✅      |
-| 23 | Occupations                    | Medium    | ✅      |
-| 24 | Binary Tree Nodes              | Medium    | ✅      |
-| 25 | New Companies                  | Medium    | ✅      |
-| 26 | Revising Aggregations - The Count Function | Easy | ✅ |
-| 27 | Revising Aggregations - The Sum Function   | Easy | ✅ |
-| 28 | Revising Aggregations - Averages           | Easy | ✅ |
-| 29 | Average Population                         | Easy | ✅ |
+| 22 | The PADS                                   | Medium  | ✅ |
+| 23 | Occupations                                | Medium  | ✅ |
+| 24 | Binary Tree Nodes                          | Medium  | ✅ |
+| 25 | New Companies                              | Medium  | ✅ |
+| 26 | Revising Aggregations - The Count Function | Easy    | ✅ |
+| 27 | Revising Aggregations - The Sum Function   | Easy    | ✅ |
+| 28 | Revising Aggregations - Averages           | Easy    | ✅ |
+| 29 | Average Population                         | Easy    | ✅ |
+| 30 | Japan Population                           | Easy    | ✅ |
 ## Repository Structure
 
 ```text
