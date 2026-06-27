@@ -38,6 +38,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 26 | Revising Aggregations - The Count Function | Easy | ✅ |
 | 27 | Revising Aggregations - The Sum Function   | Easy | ✅ |
 | 28 | Revising Aggregations - Averages           | Easy | ✅ |
+| 29 | Average Population                         | Easy | ✅ |
 ## Repository Structure
 
 ```text
