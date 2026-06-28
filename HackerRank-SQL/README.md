@@ -41,6 +41,8 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 29 | Average Population                         | Easy    | ✅ |
 | 30 | Japan Population                           | Easy    | ✅ |
 | 31 | Population Density Difference              | Easy    | ✅ |
+| 32 | The Blunder                                | Easy    | ✅ |
+
 ## Repository Structure
 
 ```text
