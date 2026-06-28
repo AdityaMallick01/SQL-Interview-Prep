@@ -40,6 +40,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 28 | Revising Aggregations - Averages           | Easy    | ✅ |
 | 29 | Average Population                         | Easy    | ✅ |
 | 30 | Japan Population                           | Easy    | ✅ |
+| 31 | Population Density Difference              | Easy    | ✅ |
 ## Repository Structure
 
 ```text
