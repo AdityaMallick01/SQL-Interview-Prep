@@ -34,7 +34,7 @@ SQL-Interview-Prep/
 | Platform       | Solved      |
 | -------------- | ----------- |
 | LeetCode SQL   | 50          |
-| HackerRank SQL | 31          |
+| HackerRank SQL | 32          |
 
 ## Learning Goals
 
