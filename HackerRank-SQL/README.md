@@ -43,6 +43,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 31 | Population Density Difference              | Easy    | ✅ |
 | 32 | The Blunder                                | Easy    | ✅ |
 | 33 | Top Earners                                | Easy    | ✅ |
+| 34 | Weather Observation Station 2              | Easy    | ✅ |
 
 ## Repository Structure
 
