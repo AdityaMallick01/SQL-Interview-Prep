@@ -44,6 +44,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 32 | The Blunder                                | Easy    | ✅ |
 | 33 | Top Earners                                | Easy    | ✅ |
 | 34 | Weather Observation Station 2              | Easy    | ✅ |
+| 35 | Weather Observation Station 13             | Easy    | ✅ |
 
 ## Repository Structure
 
