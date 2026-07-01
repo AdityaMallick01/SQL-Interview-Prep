@@ -46,6 +46,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 34 | Weather Observation Station 2              | Easy    | ✅ |
 | 35 | Weather Observation Station 13             | Easy    | ✅ |
 | 36 | Weather Observation Station 14             | Easy    | ✅ |
+| 37 | Weather Observation Station 15             | Easy    | ✅ |
 
 ## Repository Structure
 
