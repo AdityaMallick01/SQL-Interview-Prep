@@ -54,6 +54,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 42 | Weather Observation Station 20             | Medium  | ✅ |
 | 43 | Population Census                          | Easy    | ✅ |
 | 44 | African Cities                             | Easy    | ✅ |
+| 45 | Average Population of Each Continent       | Easy    | ✅ |
 
 ## Repository Structure
 
