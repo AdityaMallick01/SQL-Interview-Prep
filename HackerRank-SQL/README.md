@@ -55,6 +55,7 @@ Each problem has its own folder containing the SQL solution and explanation.
 | 43 | Population Census                          | Easy    | ✅ |
 | 44 | African Cities                             | Easy    | ✅ |
 | 45 | Average Population of Each Continent       | Easy    | ✅ |
+| 46 | The Report                                 | Medium  | ✅ |
 
 ## Repository Structure
 
